@@ -1,0 +1,22 @@
+/* public/css/styles.css (Créez un fichier styles.css dans le dossier public/css de votre projet Laravel) */
+
+/* Centrer le formulaire */
+.form-container {
+    max-width: 400px;
+    margin: 0 auto;
+}
+
+/* Ajouter un espacement entre les éléments du formulaire */
+.form-group {
+    margin-bottom: 1rem;
+}
+
+/* Styler les cases à cocher */
+.form-check-label {
+    margin-left: 0.5rem;
+}
+
+/* Ajouter un espacement entre le bouton d'envoi et les autres éléments */
+button[type="submit"] {
+    margin-top: 1rem;
+}
